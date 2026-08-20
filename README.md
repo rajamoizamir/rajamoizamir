@@ -1,81 +1,85 @@
-<h1 align="center">Hi 👋, I'm Raja Moiz Amir</h1>
-<h3 align="center">A passionate Cloud Engineer from Pakistan</h3>
+<h1 align="center">Hey 👋, I'm Raja Moiz Amir</h1>
+<h3 align="center">A passionate Cloud Engineer from Pakistan ☁️</h3>
 
-<!-- Profile Views -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rajamoizamir&label=Profile%20views&color=0e75b6&style=flat" alt="rajamoizamir" /> 
-</p>
-
-<!-- Social Links -->
 <p align="center">
-  <a href="https://fb.com/r.moizamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r.moizamir" height="30" width="40" /></a>
-  <a href="https://instagram.com/r.moizamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.moizamir" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rajamoizamir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rajamoizamir?label=Followers&style=flat" alt="Followers" />
 </p>
 
----
-
-### 👨‍💻 About Me
-- 🔭 All of my projects are available at [https://github.com/rajamoizamir](https://github.com/rajamoizamir)
-- ☁️ Ask me about **AWS Cloud**
-- 📫 How to reach me **r.moizamir@gmail.com**
-- ⚡ Fun fact **I am a Content Creator**
-
----
-
-### 🛠️ Languages & Tools
-<p align="center"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<!-- Intro & Socials -->
+<p align="center">
+  💬 Ask me about <b>AWS Cloud</b> | ⚡ Fun fact: <b>I am a Content Creator</b> <br><br>
+  <a href="mailto:r.moizamir@gmail.com"><img src="https://img.shields.io/badge/Email-r.moizamir@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://fb.com/r.moizamir" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/r.moizamir" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
----
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=rajamoizamir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=rajamoizamir&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Analytics & Commit Graph
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajamoizamir&theme=radical&margin-w=15" alt="rajamoizamir trophies" />
+<p align="center">
+  <a href="https://github.com/rajamoizamir">
+    <img
+      src="https://skillicons.dev/icons?i=aws,docker,linux,grafana,mysql,nodejs,react,js,html,css,git,github&perline=12"
+      alt="Tech Stack"
+    />
   </a>
-  
-  <br><br>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rajamoizamir&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamoizamir&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <br><br>
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=rajamoizamir&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajamoizamir&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajamoizamir&theme=radical" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajamoizamir&theme=react-dark" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
-### 🔥 Featured Projects
-
-<div align="center">
-
-  <!-- DHYAN RAHE: Niche 'YOUR-REPO-NAME' ko apni asli repository ke naam se zaroor badlein -->
-  <a href="https://github.com/rajamoizamir/YOUR-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajamoizamir&repo=YOUR-REPO-NAME&theme=radical" alt="Featured Project 1" />
-  </a>
-  
-  <!-- DHYAN RAHE: Niche 'ANOTHER-REPO-NAME' ko apni asli repository ke naam se zaroor badlein -->
-  <a href="https://github.com/rajamoizamir/ANOTHER-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajamoizamir&repo=ANOTHER-REPO-NAME&theme=radical" alt="Featured Project 2" />
-  </a>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajamoizamir&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajamoizamir&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
