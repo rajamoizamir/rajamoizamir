@@ -56,9 +56,8 @@
     </td>
     <td width="25%" align="center">
       <h3>📌 GitHub Overview</h3>
-      <!-- Replaced with a more stable standard stats card -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=rajamoizamir&theme=tokyonight&hide_border=true&show_icons=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajamoizamir&theme=tokyonight"
         alt="GitHub Overview"
         width="100%"
       />
@@ -69,18 +68,16 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <!-- Replaced with a more stable top-languages card -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamoizamir&theme=tokyonight&hide_border=true&layout=donut"
-        alt="Top Languages"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajamoizamir&theme=tokyonight"
+        alt="Languages by Repository"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
-      <!-- Replaced with an extra compact languages card or a specific repo card to avoid duplicate errors -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamoizamir&theme=tokyonight&hide_border=true&layout=compact"
-        alt="Top Languages by Commit"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajamoizamir&theme=tokyonight"
+        alt="Languages by Commit"
         width="100%"
       />
     </td>
