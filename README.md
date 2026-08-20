@@ -14,11 +14,12 @@
   <a href="https://instagram.com/r.moizamir" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<!-- Primary Stats & Streak -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=rajamoizamir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        src="https://github-readme-stats.vercel.app/api?username=rajamoizamir&show_icons=true&theme=tokyonight&hide_border=true"
         alt="GitHub Stats"
         width="100%"
       />
@@ -44,40 +45,36 @@
   </a>
 </p>
 
+<!-- Contribution Activity Graph -->
 <table align="center" width="100%">
   <tr>
-    <td width="75%" align="center">
+    <td align="center">
       <h3>📈 Contribution Activity</h3>
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=rajamoizamir&theme=tokyo-night&hide_border=true&area=true&height=180"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=rajamoizamir&theme=tokyo-night&hide_border=true&area=true&height=200"
         alt="Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="25%" align="center">
-      <h3>📌 GitHub Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajamoizamir&theme=tokyonight"
-        alt="GitHub Overview"
         width="100%"
       />
     </td>
   </tr>
 </table>
 
+<!-- Languages Breakdown -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
+      <h3>💻 Most Used Languages</h3>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajamoizamir&theme=tokyonight"
-        alt="Languages by Repository"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamoizamir&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
+      <h3>🏆 GitHub Trophies</h3>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajamoizamir&theme=tokyonight"
-        alt="Languages by Commit"
+        src="https://github-profile-trophy.vercel.app/?username=rajamoizamir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+        alt="GitHub Trophies"
         width="100%"
       />
     </td>
