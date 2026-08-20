@@ -14,12 +14,11 @@
   <a href="https://instagram.com/r.moizamir" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<!-- Primary Stats & Streak -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=rajamoizamir&show_icons=true&theme=tokyonight&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api?username=rajamoizamir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         width="100%"
       />
@@ -45,36 +44,43 @@
   </a>
 </p>
 
-<!-- Contribution Activity Graph -->
 <table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td width="75%" align="center">
       <h3>📈 Contribution Activity</h3>
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=rajamoizamir&theme=tokyo-night&hide_border=true&area=true&height=200"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=rajamoizamir&theme=tokyo-night&hide_border=true&area=true&height=180"
         alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <!-- Replaced with a more stable standard stats card -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=rajamoizamir&theme=tokyonight&hide_border=true&show_icons=true"
+        alt="GitHub Overview"
         width="100%"
       />
     </td>
   </tr>
 </table>
 
-<!-- Languages Breakdown -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>💻 Most Used Languages</h3>
+      <!-- Replaced with a more stable top-languages card -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamoizamir&layout=compact&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamoizamir&theme=tokyonight&hide_border=true&layout=donut"
         alt="Top Languages"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
-      <h3>🏆 GitHub Trophies</h3>
+      <!-- Replaced with an extra compact languages card or a specific repo card to avoid duplicate errors -->
       <img
-        src="https://github-profile-trophy.vercel.app/?username=rajamoizamir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-        alt="GitHub Trophies"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamoizamir&theme=tokyonight&hide_border=true&layout=compact"
+        alt="Top Languages by Commit"
         width="100%"
       />
     </td>
